@@ -1,4 +1,8 @@
-
+# intall python on your laptop
+# install sql with mysql workbench
+# create database(admissions) in workbench
+# In your VS Code Terminal, run:python -m pip install mysql-connector-python
+# run file: python admission.py
 import mysql.connector
 
 conn=mysql.connector.connect(
